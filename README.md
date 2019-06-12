@@ -2,7 +2,7 @@
 Получение информации о свободных талонах на [сайте мос услуг](https://uslugi.mosreg.ru)
 ### Url api: `https://uslugi.mosreg.ru/zdrav/doctor_appointment/api/doctors?lpuCode=&departmentId=&doctorId=&days=`
 
-`npm install`
+#### `npm install`
 
 ##### Некоторые параметры:
 Код больницы `lpuCode=` если его не указать, запрос вернёт все больницы
