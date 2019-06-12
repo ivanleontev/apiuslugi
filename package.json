@@ -1,0 +1,16 @@
+{
+  "name": "apiuslugi",
+  "version": "1.0.0",
+  "description": "получение информации о талонах uslugi.mosreg.ru",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "leontev ivan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.2.1",
+    "request-promise": "^4.2.4"
+  }
+}
